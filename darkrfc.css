@@ -1,0 +1,15 @@
+@-moz-document regexp("(http|https):\/\/(www|tools)\.ietf\.org/(rfc|html)/.+") {
+  .bgbrown {
+    background-color: #4D317E !important;
+  }
+  span.top {
+      border-top: 7px solid #F2851C !important;
+  }
+  body {
+    color: white;
+    background-color: black;
+  }
+  span {
+    background-color: black !important;
+  }
+}
