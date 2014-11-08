@@ -9,5 +9,5 @@ Dark theme for RFCs and not being blinded by the white background.
 
 # Examples
 ![BGP HTML RFC](https://dl.dropboxusercontent.com/s/bagbjuzelm123ug/Screenshot%202014-11-08%2010.15.27.png)
-![BGP Text RFC](https://dl.dropboxusercontent.com/s/kz9qjkiq5gt43ge/Screenshot%202014-11-08%2010.11.47.png)
+![BGP Text RFC](https://dl.dropboxusercontent.com/s/6tmg4sgj90bdrm1/Screenshot%202014-11-08%2010.17.43.png)
 ![More BGP Text RFC](https://dl.dropboxusercontent.com/s/kz9qjkiq5gt43ge/Screenshot%202014-11-08%2010.11.47.png)
