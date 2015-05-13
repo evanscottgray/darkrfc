@@ -6,10 +6,16 @@
       border-top: 7px solid #F2851C !important;
   }
   body {
-    color: white;
-    background-color: black;
+    color: #eeeeee;
+    background-color: #222222;
   }
   span {
-    background-color: black !important;
+    background-color: #222222 !important;
+  }
+  a {
+    color: #eeeeee;
+  }
+  a:hover {
+    color: #999999;
   }
 }
